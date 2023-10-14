@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=xukp20&include_all_commits=true&count_private-true&custom_title=xukp20&theme=transparent">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xukp20&layout=compact">
+
+[![xukp20's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xukp20&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
