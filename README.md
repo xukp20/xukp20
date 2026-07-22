@@ -81,5 +81,5 @@
 ---
 
 <p align="center">
-  <sub>All we see is sky for forever.</sub>
+  <img src="./assets/profile-tagline.svg" alt="All we see is sky for forever." width="760">
 </p>
