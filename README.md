@@ -1,23 +1,92 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Jerry 👋</h1>
 
-<!--
-**xukp20/xukp20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Building reliable infrastructure for AI agents, formal reasoning, and scientific discovery.</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/xukp20/agent-runtime-kit">Agent Infrastructure</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/iiis-lean">Lean &amp; Formalization</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/xukp20/sci-modeling-bench">Scientific AI</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
 
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xukp20&include_all_commits=true&count_private-true&custom_title=xukp20&theme=transparent">
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Agent Infrastructure</strong><br><br>
+      Provider-neutral runtimes, durable state, typed orchestration, and practical tooling for coding agents.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Lean &amp; Formalization</strong><br><br>
+      Agent-assisted proof engineering, reusable Lean tooling, and formalization aligned with mathematical sources.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Scientific AI</strong><br><br>
+      Reproducible environments and observation-grounded benchmarks for scientific modeling and design agents.
+    </td>
+  </tr>
+</table>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xukp20&layout=compact">
--->
-[![xukp20's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xukp20&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xukp20/agent-runtime-kit">Agent Runtime Kit</a></h3>
+      <p>A durable, provider-neutral runtime contract for heterogeneous coding agents, typed workflows, and restorable state.</p>
+      <p><code>Python</code> <code>Agent Runtime</code> <code>Orchestration</code></p>
+      <p>
+        <a href="https://github.com/xukp20/agent-runtime-kit">Repository</a>
+        ·
+        <a href="https://github.com/xukp20/agent-runtime-kit/tree/master/docs">Documentation</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xukp20/sci-modeling-bench">SciModelingBench</a></h3>
+      <p>Observation-grounded benchmarks for scientific modeling and design agents, with reproducible datasets, objectives, protocols, and evaluation.</p>
+      <p><code>Python</code> <code>Scientific AI</code> <code>Benchmarking</code></p>
+      <p>
+        <a href="https://github.com/xukp20/sci-modeling-bench">Repository</a>
+        ·
+        <a href="https://pypi.org/project/sci-modeling-bench/">PyPI</a>
+        ·
+        <a href="https://huggingface.co/datasets/sci-modeling-bench/design-bench">Datasets</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/iiis-lean/lean-mcp-toolkit">Lean MCP Toolkit</a></h3>
+      <p>A unified Lean tool server exposing diagnostics, LSP, search, and declaration tools through MCP, HTTP, CLI, and local shell interfaces.</p>
+      <p><code>Lean 4</code> <code>MCP</code> <code>Formal Methods</code></p>
+      <p>
+        <a href="https://github.com/iiis-lean/lean-mcp-toolkit">Repository</a>
+        ·
+        <a href="https://github.com/iiis-lean/lean-mcp-toolkit/tree/main/docs">Documentation</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Lean Constellation <sup>In development</sup></h3>
+      <p>Exploring multi-agent workflows for Lean formalization and proof engineering.</p>
+      <p><code>Lean 4</code> <code>Multi-Agent</code> <code>Proof Engineering</code></p>
+      <p>Public details coming soon.</p>
+    </td>
+  </tr>
+</table>
+
+## Selected work
+
+- **[Parsell–Vinogradov Formalization](https://github.com/iiis-lean/ParsellVinogradov)** — Lean formalization and paper-to-proof alignment for the Brascamp–Lieb condition.
+- **[arxiv-summarizer](https://github.com/xukp20/arxiv-summarizer)** — reusable Codex and OpenClaw skills for paper retrieval, processing, and hierarchical reporting.
+- **[Prompt Scratchpad](https://github.com/xukp20/prompt-scratchpad)** — a focused VS Code companion for terminal-based coding agents.
+- **[codex-guard-notify](https://github.com/xukp20/codex-guard-notify)** — completion guards and final-only notifications for long-running Codex tasks.
+
+---
+
+<p align="center">
+  <sub>All we see is sky for forever.</sub>
+</p>
