@@ -78,13 +78,6 @@
   </tr>
 </table>
 
-## Selected work
-
-- **[Parsell–Vinogradov Formalization](https://github.com/iiis-lean/ParsellVinogradov)** — Lean formalization and paper-to-proof alignment for the Brascamp–Lieb condition.
-- **[arxiv-summarizer](https://github.com/xukp20/arxiv-summarizer)** — reusable Codex and OpenClaw skills for paper retrieval, processing, and hierarchical reporting.
-- **[Prompt Scratchpad](https://github.com/xukp20/prompt-scratchpad)** — a focused VS Code companion for terminal-based coding agents.
-- **[codex-guard-notify](https://github.com/xukp20/codex-guard-notify)** — completion guards and final-only notifications for long-running Codex tasks.
-
 ---
 
 <p align="center">
