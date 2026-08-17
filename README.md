@@ -83,5 +83,5 @@
 ---
 
 <p align="center">
-  <img src="./assets/profile-tagline.svg" alt="All we see is sky for forever." width="760">
+  <img src="https://raw.githubusercontent.com/xukp20/xukp20/main/assets/profile-tagline.svg" alt="All we see is sky for forever." width="760">
 </p>
