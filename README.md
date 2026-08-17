@@ -70,10 +70,12 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Lean Constellation <sup>In development</sup></h3>
+      <h3><a href="https://github.com/iiis-lean/lean-constellation">Lean Constellation</a> <sup>In development</sup></h3>
       <p>Exploring multi-agent workflows for Lean formalization and proof engineering.</p>
       <p><code>Lean 4</code> <code>Multi-Agent</code> <code>Proof Engineering</code></p>
-      <p>Public details coming soon.</p>
+      <p>
+        <a href="https://github.com/iiis-lean/lean-constellation">Repository</a>
+      </p>
     </td>
   </tr>
 </table>
